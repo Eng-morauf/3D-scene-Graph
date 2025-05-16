@@ -1,5 +1,3 @@
-// single_scene_graph.cpp
-
 #include <iostream>
 #include <vector>
 #include <string>
